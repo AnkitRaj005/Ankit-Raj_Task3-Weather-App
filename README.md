@@ -1,17 +1,15 @@
-Project Description
-The Student Registration Form is a simple web-based form built using React and Formik to collect student information, including name, age, email, and course selection. It features real-time form validation using Yup, ensuring that all inputs are correctly filled before submission. Once submitted, the data is logged to the console, simulating form processing.
+Project Description: 
+The Weather App is a simple and user-friendly web application that allows users to search for real-time weather information for any city. It fetches live data from the OpenWeatherMap API and displays key weather details such as temperature, humidity, wind speed, and conditions.
+
+This project is built using React.js with Axios for API requests and features a modern UI with smooth interactions.
 
 Technologies Used
-This project is built using the following technologies:
-React.js  - For building the user interface
-Formik  - For form handling and validation
-Yup  - For schema-based form validation
-CSS  - For styling and responsiveness
+This project is built with:
 
-Features
- User-friendly form with an intuitive UI
- Real-time validation using Formik + Yup
- Clear error messages for incorrect inputs
- Responsive design for better usability
- Form resets after submission
+React.js - For building the front-end UI
+Axios  - For making API requests to OpenWeatherMap
+OpenWeatherMap API  - For fetching live weather data
+CSS  - For styling and responsiveness
+React Icons  - For modern weather icons
+
 
